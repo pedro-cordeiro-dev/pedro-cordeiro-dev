@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<h1 align = center>Olá, meu nome Pedro Lucas e bem vindo ao meu repositorio!!</h1>
+
+![link imagem](https://media1.tenor.com/m/BrNtIejIcXUAAAAd/pixel-art.gif)
 
 <!--
 **pedro-cordeiro-dev/pedro-cordeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
