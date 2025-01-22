@@ -34,6 +34,11 @@
 [![linkedin](https://skillicons.dev/icons?i=linkedin,)](https://bit.ly/lnPedro) <br>
 [![email](https://skillicons.dev/icons?i=gmail,)](mailto:pedrolucassaraiva_@outlook.com)
 
+----
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 <!--
 **pedro-cordeiro-dev/pedro-cordeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
