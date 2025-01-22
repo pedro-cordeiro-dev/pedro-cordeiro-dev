@@ -14,11 +14,11 @@
 • 🛠️ Experiência acadêmica com **Java**, **HTML**, **CSS** e **JavaScript**.
 
 ---
-### Linguagens
+### Linguagens:
 
 [![Skills](https://skillicons.dev/icons?i=java,js,html,css,)](https://skillicons.dev)
 ----
-### Ferramentas
+### Ferramentas:
 
 [![Ferramentas](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
 ----
@@ -29,7 +29,7 @@
 |Logica de programação|[certificado](https://www.dio.me/certificate/TSMA3NQW/share)|
 
 ----
-### Contato
+### Contato:
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin,)](https://bit.ly/lnPedro) <br>
 [![email](https://skillicons.dev/icons?i=gmail,)](mailto:pedrolucassaraiva_@outlook.com)
