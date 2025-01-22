@@ -1,7 +1,7 @@
 
 <h1 align = center>Olá, meu nome Pedro Lucas e bem vindo ao meu repositorio!!</h1>
 
-![link imagem](https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![link imagem](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 
 <!--
 **pedro-cordeiro-dev/pedro-cordeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
