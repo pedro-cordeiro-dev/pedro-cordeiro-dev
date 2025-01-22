@@ -37,7 +37,7 @@
 ----
 
 ![Pedro-Cordeiro-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-cordeiro-dev&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-cordeiro-dev\&layout=donut&theme=midnight-dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-cordeiro-dev&layout=compact)
 
 
 pedro-cordeiro-dev
