@@ -31,7 +31,7 @@
 ----
 ### Contato
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin,)](https://bit.ly/lnPedro) <br>
+[![linkedin](https://skillicons.dev/icons?i=linkedin,)](https://bit.ly/lnPedro)
 [![email](https://skillicons.dev/icons?i=gmail,)](mailto:pedrolucassaraiva_@outlook.com)
 
 
