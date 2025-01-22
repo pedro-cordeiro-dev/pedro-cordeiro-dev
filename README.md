@@ -37,10 +37,7 @@
 ----
 
 ![Pedro-Cordeiro-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-cordeiro-dev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-cordeiro-dev&layout=compact)
-
-
-pedro-cordeiro-dev
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-cordeiro-dev&layout=compact&langs_count=7&theme=dracula)
 <!--
 **pedro-cordeiro-dev/pedro-cordeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
