@@ -31,7 +31,8 @@
 ----
 ### Contato
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin,)](www.linkedin.com/in/pedro-cordeiro2005)
+[![linkedin](https://skillicons.dev/icons?i=linkedin,)](www.linkedin.com/in/pedro-cordeiro2005
+)
 [![email](https://skillicons.dev/icons?i=gmail,)](mailto:pedrolucassaraiva_@outlook.com)
 
 
