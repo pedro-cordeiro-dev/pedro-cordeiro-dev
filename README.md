@@ -16,7 +16,7 @@
 ---
 ### Linguagens:
 
-[![Skills](https://skillicons.dev/icons?i=java,js,html,css,)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,react,js,html,css,)](https://skillicons.dev)
 ----
 ### Ferramentas:
 
