@@ -20,7 +20,7 @@
 ----
 ### Ferramentas:
 
-[![Ferramentas](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=idea,vscode,git,postgres.mysql)](https://skillicons.dev)
 ----
 ### Cursos e Certificados:
 
